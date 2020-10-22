@@ -10,6 +10,6 @@ pycosat==0.6.3
 requests==2.24.0
 ruamel.yaml==0.16.12
 ruamel.yaml.clib==0.2.2
-urllib3==1.25.10
-virtualenv==20.0.31
+urllib3==1.25.11
+virtualenv==20.0.35
 virtualenv-clone==0.5.4

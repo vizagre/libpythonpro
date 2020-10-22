@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.flake8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libpythonpro/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libpythonpro/github_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iNz4EzaNRxEatKjxujb1BcgbhC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="github_api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="libpythonpro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libpythonpro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libpythonpro/github_api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.github_api" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="" />
+      <created>1601762644663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601762644663</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Ajuste para versão Python 3">
+      <created>1601831346301</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601831346301</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Ajuste para versão Python 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajuste para versão Python 3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="207" width="493" height="322" key="#Notifications" timestamp="1601831031761">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="432" y="207" width="493" height="322" key="#Notifications/0.0.1366.743@0.0.1366.743" timestamp="1601831031761" />
+    <state x="585" y="240" width="196" height="256" key="#Vim_Emulation" timestamp="1601830968663">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="585" y="240" width="196" height="256" key="#Vim_Emulation/0.0.1366.743@0.0.1366.743" timestamp="1601830968663" />
+    <state x="429" y="176" width="500" height="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603154490144">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="429" y="176" width="500" height="383" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.743@0.0.1366.743" timestamp="1603154490144" />
+    <state x="461" y="125" width="426" height="477" key="FileChooserDialogImpl" timestamp="1601830391249">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="461" y="125" width="426" height="477" key="FileChooserDialogImpl/0.0.1366.743@0.0.1366.743" timestamp="1601830391249" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1603156491949">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.743@0.0.1366.743" timestamp="1603156491949" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1603156491947">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.743@0.0.1366.743" timestamp="1603156491947" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1603156491947">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.743@0.0.1366.743" timestamp="1603156491947" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1603156491948">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.743@0.0.1366.743" timestamp="1603156491948" />
+    <state x="187" y="6" key="SettingsEditor" timestamp="1603149998449">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="187" y="6" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1603149998449" />
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1601831354861">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1601831354861" />
+    <state x="408" y="266" width="542" height="203" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603152977337">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="408" y="266" width="542" height="203" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.743@0.0.1366.743" timestamp="1603152977337" />
+  </component>
+</project>
