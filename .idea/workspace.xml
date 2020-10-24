@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Configuração para Travis CI">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -97,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601831346301</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Configuração para Travis CI">
+      <created>1603573927302</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603573927302</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,7 +121,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Ajuste para versão Python 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajuste para versão Python 3" />
+    <MESSAGE value="Configuração para Travis CI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configuração para Travis CI" />
   </component>
   <component name="WindowStateProjectService">
     <state x="432" y="207" width="493" height="322" key="#Notifications" timestamp="1601831031761">
@@ -154,10 +161,10 @@
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="187" y="6" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1603149998449" />
-    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1601831354861">
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1603573934440">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1601831354861" />
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1603573934440" />
     <state x="408" y="266" width="542" height="203" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603152977337">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
