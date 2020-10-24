@@ -3,6 +3,8 @@ Módulo para exemplificar a construção de projetos python no curso PyTools
 
 Link do curso [Python Pro](https://www.python.pro.br/)
 
+[![Build Status](https://travis-ci.org/vizagre/libpythonpro.svg?branch=main)](https://travis-ci.org/vizagre/libpythonpro)
+
 Suportada versão 3 de Python.
 
 Para instalar:

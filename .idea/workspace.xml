@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.flake8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/github_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
