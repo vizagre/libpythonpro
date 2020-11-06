@@ -75,7 +75,7 @@ def find_package_data(
                         break
                 if bad_name:
                     continue
-                if (os.path.isfile(os.path.join(fn, "__init__.py"))
+                if (os.path.isfile(os.path.join(fn, "libpythonpro/__init__.py"))
                         and not prefix):
                     if not package:
                         new_package = name
@@ -104,8 +104,8 @@ def find_package_data(
 PACKAGE = "libpythonpro"
 NAME = PACKAGE
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
-AUTHOR = "Renzo Nuccitelli"
-AUTHOR_EMAIL = "renzo@python.pro.br"
+AUTHOR = "Leonardo Vizagre"
+AUTHOR_EMAIL = "vizagre@gmail.com"
 URL = "https://github.com/pythonprobr/libpythonpro"
 VERSION = __import__(PACKAGE).__version__
 
