@@ -17,6 +17,14 @@ source .venv/bin/activate
 pip install -r requirements-dev.txt
 ```
 
+Para habilitar e desabilitar o virtualenv:
+
+```Console
+source .venv/bin/activate
+which python
+
+deactivate
+```
 
 Tópicos a serem abordados:
  1. Git;

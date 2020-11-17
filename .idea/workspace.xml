@@ -19,9 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Configuração para pyup.io">
+    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/test_exemplo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libpythonpro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libpythonpro.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpythonpro/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements-dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +58,14 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.pytest in tests">
     <configuration name="github_api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="libpythonpro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,8 +87,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in tests" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="libpythonpro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libpythonpro/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/libpythonpro/tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in tests" />
         <item itemvalue="Python.github_api" />
       </list>
     </recent_temporary>
@@ -118,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603576057628</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Correção do local do arquivo setup.py para poder gerar o arquivo de distribuição.">
+      <created>1604624287116</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604624287116</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,7 +167,8 @@
     <MESSAGE value="Ajuste para versão Python 3" />
     <MESSAGE value="Configuração para Travis CI" />
     <MESSAGE value="Configuração para pyup.io" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configuração para pyup.io" />
+    <MESSAGE value="Correção do local do arquivo setup.py para poder gerar o arquivo de distribuição." />
+    <option name="LAST_COMMIT_MESSAGE" value="Correção do local do arquivo setup.py para poder gerar o arquivo de distribuição." />
   </component>
   <component name="WindowStateProjectService">
     <state x="432" y="207" width="493" height="322" key="#Notifications" timestamp="1601831031761">
@@ -173,14 +203,14 @@
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.743@0.0.1366.743" timestamp="1603156491948" />
-    <state x="187" y="6" key="SettingsEditor" timestamp="1604620045462">
+    <state x="187" y="6" key="SettingsEditor" timestamp="1605573842120">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="187" y="6" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1604620045462" />
-    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1603576060546">
+    <state x="187" y="6" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1605573842120" />
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1604624296886">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1603576060546" />
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1604624296886" />
     <state x="408" y="266" width="542" height="203" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603152977337">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
