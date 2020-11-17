@@ -19,13 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/test_exemplo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libpythonpro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libpythonpro.iml" afterDir="false" />
+    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Ajuste">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements-dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604624287116</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Inserido testes com pytest e configuração para rodar testes pelo travis.">
+      <created>1605574218107</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605574218107</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ajuste">
+      <created>1605576268960</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605576268960</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,7 +177,9 @@
     <MESSAGE value="Configuração para Travis CI" />
     <MESSAGE value="Configuração para pyup.io" />
     <MESSAGE value="Correção do local do arquivo setup.py para poder gerar o arquivo de distribuição." />
-    <option name="LAST_COMMIT_MESSAGE" value="Correção do local do arquivo setup.py para poder gerar o arquivo de distribuição." />
+    <MESSAGE value="Inserido testes com pytest e configuração para rodar testes pelo travis." />
+    <MESSAGE value="Ajuste" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajuste" />
   </component>
   <component name="WindowStateProjectService">
     <state x="432" y="207" width="493" height="322" key="#Notifications" timestamp="1601831031761">
@@ -207,10 +218,10 @@
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="187" y="6" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1605573842120" />
-    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1604624296886">
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1605576272264">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1604624296886" />
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1605576272264" />
     <state x="408" y="266" width="542" height="203" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603152977337">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
