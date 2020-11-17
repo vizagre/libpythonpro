@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Ajuste">
+    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Correção do arquivo de dependências">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements-dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
     </list>
@@ -156,7 +156,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605576268960</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Correção do arquivo de dependências">
+      <created>1605576723403</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605576723403</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Correção do arquivo de dependências">
+      <created>1605577076661</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605577076661</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,7 +193,8 @@
     <MESSAGE value="Correção do local do arquivo setup.py para poder gerar o arquivo de distribuição." />
     <MESSAGE value="Inserido testes com pytest e configuração para rodar testes pelo travis." />
     <MESSAGE value="Ajuste" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajuste" />
+    <MESSAGE value="Correção do arquivo de dependências" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correção do arquivo de dependências" />
   </component>
   <component name="WindowStateProjectService">
     <state x="432" y="207" width="493" height="322" key="#Notifications" timestamp="1601831031761">
@@ -198,30 +213,30 @@
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="461" y="125" width="426" height="477" key="FileChooserDialogImpl/0.0.1366.743@0.0.1366.743" timestamp="1601830391249" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1603156491949">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1605577026990">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.743@0.0.1366.743" timestamp="1603156491949" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1603156491947">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.743@0.0.1366.743" timestamp="1605577026990" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1605577026989">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.743@0.0.1366.743" timestamp="1603156491947" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1603156491947">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.743@0.0.1366.743" timestamp="1605577026989" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1605577026987">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.743@0.0.1366.743" timestamp="1603156491947" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1603156491948">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.743@0.0.1366.743" timestamp="1605577026987" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1605577026990">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.743@0.0.1366.743" timestamp="1603156491948" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.743@0.0.1366.743" timestamp="1605577026990" />
     <state x="187" y="6" key="SettingsEditor" timestamp="1605573842120">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="187" y="6" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1605573842120" />
-    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1605576272264">
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1605577078456">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1605576272264" />
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1605577078456" />
     <state x="408" y="266" width="542" height="203" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603152977337">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
