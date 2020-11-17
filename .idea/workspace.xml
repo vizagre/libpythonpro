@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Correção do arquivo yaml travis">
+    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Correção do arquivo de dependencias">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements-dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605578859750</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Correção do arquivo de dependencias">
+      <created>1605579730763</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605579730764</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,13 +216,14 @@
     <MESSAGE value="Ajuste" />
     <MESSAGE value="Correção do arquivo de dependências" />
     <MESSAGE value="Correção do arquivo yaml travis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correção do arquivo yaml travis" />
+    <MESSAGE value="Correção do arquivo de dependencias" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correção do arquivo de dependencias" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="432" y="207" width="493" height="322" key="#Notifications" timestamp="1601831031761">
+    <state x="432" y="207" width="493" height="322" key="#Notifications" timestamp="1605579765375">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="432" y="207" width="493" height="322" key="#Notifications/0.0.1366.743@0.0.1366.743" timestamp="1601831031761" />
+    <state x="432" y="207" width="493" height="322" key="#Notifications/0.0.1366.743@0.0.1366.743" timestamp="1605579765375" />
     <state x="585" y="240" width="196" height="256" key="#Vim_Emulation" timestamp="1601830968663">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
@@ -248,10 +256,10 @@
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="187" y="6" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1605573842120" />
-    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1605578862164">
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1605579881621">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1605578862164" />
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1605579881621" />
     <state x="408" y="266" width="542" height="203" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603152977337">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
