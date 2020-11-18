@@ -4,6 +4,8 @@ pycodestyle==2.6.0
 pyflakes==2.2.0
 ruamel.yaml==0.16.12
 ruamel.yaml.clib==0.2.2
+
+# deps do pytest
 py==1.9.0
 more-itertools==8.6.0
 six==1.15.0
@@ -13,4 +15,9 @@ pytest==6.1.2
 pathspec==0.8.1
 pyyaml==5.3.1
 yamllint==1.25.0
+
+# deps do coverage
+coverage==5.3
+pytest-cov==2.10.1
+
 -r requirements.txt

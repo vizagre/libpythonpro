@@ -21,7 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Correção do arquivo de dependencias">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements-dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="tasks" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -191,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605579730764</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Correção do arquivo de dependencias">
+      <created>1605580363223</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605580363223</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,10 +241,10 @@
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="429" y="176" width="534" height="383" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.743@0.0.1366.743" timestamp="1604537727591" />
-    <state x="461" y="125" width="426" height="477" key="FileChooserDialogImpl" timestamp="1601830391249">
+    <state x="461" y="125" width="426" height="477" key="FileChooserDialogImpl" timestamp="1605580466254">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="461" y="125" width="426" height="477" key="FileChooserDialogImpl/0.0.1366.743@0.0.1366.743" timestamp="1601830391249" />
+    <state x="461" y="125" width="426" height="477" key="FileChooserDialogImpl/0.0.1366.743@0.0.1366.743" timestamp="1605580466254" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1605579497839">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
@@ -252,14 +261,14 @@
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.743@0.0.1366.743" timestamp="1605579497839" />
-    <state x="187" y="6" key="SettingsEditor" timestamp="1605573842120">
+    <state x="187" y="6" key="SettingsEditor" timestamp="1605580486129">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="187" y="6" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1605573842120" />
-    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1605579881621">
+    <state x="187" y="6" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1605580486129" />
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1605580365428">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1605579881621" />
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1605580365428" />
     <state x="408" y="266" width="542" height="203" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603152977337">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
