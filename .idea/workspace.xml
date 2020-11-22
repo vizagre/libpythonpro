@@ -19,13 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Adicionando code coverage">
-      <change afterPath="$PROJECT_DIR$/libpythonpro/spam/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_enviador_de_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spam/__init__.py" afterDir="false" />
+    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Adicionando classe enviador_de_email e testes via pytest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_enviador_de_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_enviador_de_email.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605661024829</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Adicionando classe enviador_de_email e testes via pytest">
+      <created>1606082891980</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1606082891980</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,7 +286,8 @@
     <MESSAGE value="Correção do arquivo yaml travis" />
     <MESSAGE value="Correção do arquivo de dependencias" />
     <MESSAGE value="Adicionando code coverage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando code coverage" />
+    <MESSAGE value="Adicionando classe enviador_de_email e testes via pytest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando classe enviador_de_email e testes via pytest" />
   </component>
   <component name="WindowStateProjectService">
     <state x="432" y="207" width="493" height="322" key="#Notifications" timestamp="1605579765375">
@@ -325,10 +330,10 @@
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="187" y="6" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1605580486129" />
-    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1605661244526">
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1606082899543">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1605661244526" />
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1606082899543" />
     <state x="408" y="266" width="542" height="203" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603152977337">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
