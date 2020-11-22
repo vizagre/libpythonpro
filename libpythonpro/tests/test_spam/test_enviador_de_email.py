@@ -14,7 +14,7 @@ def test_criar_enviador_de_email():
 )
 def test_rementente(remetente):
     enviador = Enviador()
-    resultado=enviador.enviar(
+    resultado = enviador.enviar(
         remetente,
         'amanda.vizagre@gmail.com',
         'Teste de envio',
@@ -22,12 +22,11 @@ def test_rementente(remetente):
     )
     assert remetente in resultado
 
+
 @pytest.mark.parametrize(
     'remetente',
     ['', 'foo']
 )
-
-
 def test_rementente_invalido(remetente):
     enviador = Enviador()
     with pytest.raises(EmailInvalido):

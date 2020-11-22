@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Adicionando classe enviador_de_email e testes via pytest">
+    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Ajustes PEP8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_enviador_de_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_enviador_de_email.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -259,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606082891980</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Ajustes PEP8">
+      <created>1606083846846</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1606083846846</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,7 +293,8 @@
     <MESSAGE value="Correção do arquivo de dependencias" />
     <MESSAGE value="Adicionando code coverage" />
     <MESSAGE value="Adicionando classe enviador_de_email e testes via pytest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando classe enviador_de_email e testes via pytest" />
+    <MESSAGE value="Ajustes PEP8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajustes PEP8" />
   </component>
   <component name="WindowStateProjectService">
     <state x="432" y="207" width="493" height="322" key="#Notifications" timestamp="1605579765375">
@@ -310,30 +317,30 @@
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="461" y="125" width="426" height="477" key="FileChooserDialogImpl/0.0.1366.743@0.0.1366.743" timestamp="1606081051193" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1606082673011">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1606083998992">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.743@0.0.1366.743" timestamp="1606082673011" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1606082673011">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.743@0.0.1366.743" timestamp="1606083998992" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1606083998992">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.743@0.0.1366.743" timestamp="1606082673011" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1606082673010">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.743@0.0.1366.743" timestamp="1606083998992" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1606083998991">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.743@0.0.1366.743" timestamp="1606082673010" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1606082673011">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.743@0.0.1366.743" timestamp="1606083998991" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1606083998992">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.743@0.0.1366.743" timestamp="1606082673011" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.743@0.0.1366.743" timestamp="1606083998992" />
     <state x="187" y="6" key="SettingsEditor" timestamp="1605580486129">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="187" y="6" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1605580486129" />
-    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1606082899543">
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1606083849056">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1606082899543" />
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1606083849056" />
     <state x="408" y="266" width="542" height="203" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603152977337">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
