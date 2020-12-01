@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Ajustes PEP8">
+      <change afterPath="$PROJECT_DIR$/libpythonpro/spam/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libpythonpro/spam/modelos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_usuarios.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_enviador_de_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_enviador_de_email.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +62,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in tests">
-    <configuration name="pytest for test_enviador_de_email.test_criar_enviador_de_email" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test_usuarios.test_salvar_usuario">
+    <configuration name="pytest for libpythonpro.tests.test_spam.test_usuarios.test_salvar_usuario" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="libpythonpro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +75,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_enviador_de_email.test_criar_enviador_de_email&quot;" />
+      <option name="_new_target" value="&quot;libpythonpro.tests.test_spam.test_usuarios.test_salvar_usuario&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_enviador_de_email.test_rementente" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_usuarios.test_listar_usuarios" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="libpythonpro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +91,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_enviador_de_email.test_rementente&quot;" />
+      <option name="_new_target" value="&quot;test_usuarios.test_listar_usuarios&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_enviador_de_email.test_rementente_invalido" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_usuarios.test_salvar_usuario" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="libpythonpro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +107,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_enviador_de_email.test_rementente_invalido&quot;" />
+      <option name="_new_target" value="&quot;test_usuarios.test_salvar_usuario&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_enviador_de_email.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_usuarios.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="libpythonpro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +123,7 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/libpythonpro/tests/test_spam/test_enviador_de_email.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/libpythonpro/tests/test_spam/test_usuarios.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -143,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_usuarios.test_salvar_usuario" />
+        <item itemvalue="Python tests.pytest for test_usuarios.test_listar_usuarios" />
+        <item itemvalue="Python tests.pytest in test_usuarios.py" />
+        <item itemvalue="Python tests.pytest for libpythonpro.tests.test_spam.test_usuarios.test_salvar_usuario" />
         <item itemvalue="Python tests.pytest in tests" />
-        <item itemvalue="Python tests.pytest for test_enviador_de_email.test_criar_enviador_de_email" />
-        <item itemvalue="Python tests.pytest for test_enviador_de_email.test_rementente_invalido" />
-        <item itemvalue="Python tests.pytest for test_enviador_de_email.test_rementente" />
-        <item itemvalue="Python tests.pytest in test_enviador_de_email.py" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606083846846</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Ajustes PEP8">
+      <created>1606084864844</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1606084864844</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,42 +314,46 @@
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="585" y="240" width="196" height="256" key="#Vim_Emulation/0.0.1366.743@0.0.1366.743" timestamp="1601830968663" />
+    <state x="99" y="100" width="1168" height="543" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1606788033641">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="99" y="100" width="1168" height="543" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.743@0.0.1366.743" timestamp="1606788033641" />
     <state x="429" y="176" width="534" height="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604537727591">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="429" y="176" width="534" height="383" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.743@0.0.1366.743" timestamp="1604537727591" />
-    <state x="441" y="265" width="511" height="213" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1606081053478">
+    <state x="441" y="265" width="511" height="360" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1606787098966">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="441" y="265" width="511" height="213" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1366.743@0.0.1366.743" timestamp="1606081053478" />
-    <state x="461" y="125" width="426" height="477" key="FileChooserDialogImpl" timestamp="1606081051193">
+    <state x="441" y="265" width="511" height="360" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1366.743@0.0.1366.743" timestamp="1606787098966" />
+    <state x="461" y="125" width="426" height="477" key="FileChooserDialogImpl" timestamp="1606787000887">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="461" y="125" width="426" height="477" key="FileChooserDialogImpl/0.0.1366.743@0.0.1366.743" timestamp="1606081051193" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1606083998992">
+    <state x="461" y="125" width="426" height="477" key="FileChooserDialogImpl/0.0.1366.743@0.0.1366.743" timestamp="1606787000887" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1606788036714">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.743@0.0.1366.743" timestamp="1606083998992" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1606083998992">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.743@0.0.1366.743" timestamp="1606788036714" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1606788036714">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.743@0.0.1366.743" timestamp="1606083998992" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1606083998991">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.743@0.0.1366.743" timestamp="1606788036714" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1606788036713">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.743@0.0.1366.743" timestamp="1606083998991" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1606083998992">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.743@0.0.1366.743" timestamp="1606788036713" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1606788036714">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.743@0.0.1366.743" timestamp="1606083998992" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.743@0.0.1366.743" timestamp="1606788036714" />
     <state x="187" y="6" key="SettingsEditor" timestamp="1605580486129">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="187" y="6" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1605580486129" />
-    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1606083849056">
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2" timestamp="1606084866277">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1606083849056" />
+    <state x="278" y="94" width="802" height="547" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1606084866277" />
     <state x="408" y="266" width="542" height="203" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603152977337">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
