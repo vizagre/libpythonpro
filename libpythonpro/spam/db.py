@@ -1,6 +1,6 @@
 class Sessao:
-    contador=0
-    usuarios=[]
+    contador = 0
+    usuarios = []
 
     def salvar(self, usuario):
         Sessao.contador += 1
@@ -11,7 +11,7 @@ class Sessao:
         return self.usuarios
 
     def roll_back(self):
-        pass
+        self.usuarios.clear()
 
     def fechar(self):
         pass
