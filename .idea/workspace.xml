@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Implementacao do metodo roll_back para simular o rollback da ultima acao no banco de dados.">
-      <change beforePath="$PROJECT_DIR$/.idea/libpythonpro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libpythonpro.iml" afterDir="false" />
+    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="implementar test.fixture e extrair chamadas de setup e tear down">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_usuarios.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_usuarios.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements-dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -289,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606796298101</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="implementar test.fixture e extrair chamadas de setup e tear down">
+      <created>1608471166067</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1608471166067</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -320,6 +325,7 @@
     <MESSAGE value="Ajustes PEP8" />
     <MESSAGE value="Implementacao de conexao, sessao e usuario" />
     <MESSAGE value="Implementacao do metodo roll_back para simular o rollback da ultima acao no banco de dados." />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementacao do metodo roll_back para simular o rollback da ultima acao no banco de dados." />
+    <MESSAGE value="implementar test.fixture e extrair chamadas de setup e tear down" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementar test.fixture e extrair chamadas de setup e tear down" />
   </component>
 </project>

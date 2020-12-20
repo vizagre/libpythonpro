@@ -6,10 +6,10 @@ from libpythonpro.spam.modelos import Usuario
 
 @pytest.fixture
 def conexao():
-    #Setup
+    # Setup
     conexao_obj = Conexao()
     yield conexao_obj
-    #Tear Down
+    # Tear Down
     conexao_obj.fechar()
 
 
