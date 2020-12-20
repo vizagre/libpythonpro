@@ -19,8 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="implementar test.fixture e extrair chamadas de setup e tear down">
+    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Ajuste flake8">
+      <change afterPath="$PROJECT_DIR$/libpythonpro/spam/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_envio_para_base_de_usuarios.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/spam/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/spam/db.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_usuarios.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_usuarios.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,8 +65,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_usuarios.py">
-    <configuration name="pytest for libpythonpro.tests.test_spam.test_usuarios.test_salvar_usuario" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest in test_spam">
+    <configuration name="pytest for test_envio_para_base_de_usuarios.test_envio_de_spam" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="libpythonpro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,23 +78,7 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;libpythonpro.tests.test_spam.test_usuarios.test_salvar_usuario&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_usuarios.test_listar_usuarios" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="libpythonpro" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libpythonpro/tests/test_spam" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_usuarios.test_listar_usuarios&quot;" />
+      <option name="_new_target" value="&quot;test_envio_para_base_de_usuarios.test_envio_de_spam&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -110,7 +98,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_enviador_de_email.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_envio_para_base_de_usuarios.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="libpythonpro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +110,23 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/libpythonpro/tests/test_spam/test_enviador_de_email.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/libpythonpro/tests/test_spam/test_envio_para_base_de_usuarios.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_spam" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="libpythonpro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libpythonpro/tests/test_spam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/libpythonpro/tests/test_spam&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -144,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in test_spam" />
+        <item itemvalue="Python tests.pytest in test_envio_para_base_de_usuarios.py" />
         <item itemvalue="Python tests.pytest in test_usuarios.py" />
+        <item itemvalue="Python tests.pytest for test_envio_para_base_de_usuarios.test_envio_de_spam" />
         <item itemvalue="Python tests.pytest for test_usuarios.test_salvar_usuario" />
-        <item itemvalue="Python tests.pytest for test_usuarios.test_listar_usuarios" />
-        <item itemvalue="Python tests.pytest in test_enviador_de_email.py" />
-        <item itemvalue="Python tests.pytest for libpythonpro.tests.test_spam.test_usuarios.test_salvar_usuario" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608471166067</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Ajuste flake8">
+      <created>1608471491170</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1608471491170</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,6 +337,7 @@
     <MESSAGE value="Implementacao de conexao, sessao e usuario" />
     <MESSAGE value="Implementacao do metodo roll_back para simular o rollback da ultima acao no banco de dados." />
     <MESSAGE value="implementar test.fixture e extrair chamadas de setup e tear down" />
-    <option name="LAST_COMMIT_MESSAGE" value="implementar test.fixture e extrair chamadas de setup e tear down" />
+    <MESSAGE value="Ajuste flake8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajuste flake8" />
   </component>
 </project>
