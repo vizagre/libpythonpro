@@ -6,7 +6,7 @@ ruamel.yaml==0.16.12
 ruamel.yaml.clib==0.2.2
 
 # deps do pytest
-py==1.9.0
+py==1.10.0
 more-itertools==8.6.0
 six==1.15.0
 attrs==20.3.0
