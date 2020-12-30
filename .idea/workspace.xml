@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,8 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Utilizando mocker">
+      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements-dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements-dev.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,30 +60,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/libpythonpro/spam/enviador_de_email.py" />
-    <property name="settings.editor.selected.configurable" value="tasks" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in tests">
-    <configuration name="pytest for test_envio_para_base_de_usuarios.test_qtd_de_spam" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="libpythonpro" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libpythonpro/tests/test_spam" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_envio_para_base_de_usuarios.test_qtd_de_spam&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.pytest in test_spam">
     <configuration name="pytest for test_github_api.test_buscar_avatar_integracao" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="libpythonpro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,6 +116,22 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in test_spam" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="libpythonpro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libpythonpro/tests/test_spam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/libpythonpro/tests/test_spam&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest in tests" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="libpythonpro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in test_spam" />
         <item itemvalue="Python tests.pytest in tests" />
         <item itemvalue="Python tests.pytest in test_github_api.py" />
         <item itemvalue="Python tests.pytest for test_github_api.test_buscar_avatar_integracao" />
         <item itemvalue="Python tests.pytest in test_envio_para_base_de_usuarios.py" />
-        <item itemvalue="Python tests.pytest for test_envio_para_base_de_usuarios.test_qtd_de_spam" />
       </list>
     </recent_temporary>
   </component>
