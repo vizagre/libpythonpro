@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Isolando testes">
+    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Utilizando mocker">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_github_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_github_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements-dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_github_api.py">
+  <component name="RunManager" selected="Python tests.pytest in tests">
     <configuration name="pytest for test_envio_para_base_de_usuarios.test_qtd_de_spam" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="libpythonpro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in tests" />
         <item itemvalue="Python tests.pytest in test_github_api.py" />
         <item itemvalue="Python tests.pytest for test_github_api.test_buscar_avatar_integracao" />
         <item itemvalue="Python tests.pytest in test_envio_para_base_de_usuarios.py" />
         <item itemvalue="Python tests.pytest for test_envio_para_base_de_usuarios.test_qtd_de_spam" />
-        <item itemvalue="Python tests.pytest in tests" />
       </list>
     </recent_temporary>
   </component>
@@ -350,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609288297070</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Utilizando mocker">
+      <created>1609289733583</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1609289733583</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -389,6 +396,7 @@
     <MESSAGE value="Implementar a lib MOCK no projeto" />
     <MESSAGE value="Correção flake8 (PEP8)" />
     <MESSAGE value="Isolando testes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Isolando testes" />
+    <MESSAGE value="Utilizando mocker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Utilizando mocker" />
   </component>
 </project>
