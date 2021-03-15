@@ -22,9 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Ajustando pyup.yml">
+    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Correção de teste quebrado.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_github_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/tests/test_spam/test_github_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +37,6 @@
         <option value="Python Script" />
       </list>
     </option>
-  </component>
-  <component name="Git.Pull.Settings">
-    <option name="BRANCH" value="main" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,7 +61,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_spam">
+  <component name="RunManager" selected="Python tests.pytest in tests">
     <configuration name="pytest for test_github_api.test_buscar_avatar" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="libpythonpro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,9 +144,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in tests" />
         <item itemvalue="Python tests.pytest in test_spam" />
         <item itemvalue="Python tests.pytest in test_github_api.py" />
-        <item itemvalue="Python tests.pytest in tests" />
         <item itemvalue="Python tests.pytest for test_github_api.test_buscar_avatar_integracao" />
         <item itemvalue="Python tests.pytest for test_github_api.test_buscar_avatar" />
       </list>
@@ -381,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609352874026</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Correção de teste quebrado.">
+      <created>1611359491039</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1611359491040</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -389,7 +393,14 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="69" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="69" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -398,7 +409,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Configuração para Travis CI" />
     <MESSAGE value="Configuração para pyup.io" />
     <MESSAGE value="Correção do local do arquivo setup.py para poder gerar o arquivo de distribuição." />
     <MESSAGE value="Inserido testes com pytest e configuração para rodar testes pelo travis." />
@@ -423,6 +433,7 @@
     <MESSAGE value="Alterado gestor de dependencias para pipenv" />
     <MESSAGE value="Correção no yml do travis" />
     <MESSAGE value="Ajustando pyup.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajustando pyup.yml" />
+    <MESSAGE value="Correção de teste quebrado." />
+    <option name="LAST_COMMIT_MESSAGE" value="Correção de teste quebrado." />
   </component>
 </project>
