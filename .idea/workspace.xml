@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Correção de teste quebrado.">
+    <list default="true" id="357b9f36-8cd7-4f02-9d57-0b247a4ae639" name="Default Changelist" comment="Atualização de dependencias">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
     </list>
@@ -385,8 +385,25 @@
       <option name="project" value="LOCAL" />
       <updated>1611359491040</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Atualização de dependencias">
+      <created>1615852250408</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1615852250408</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -409,7 +426,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Configuração para pyup.io" />
     <MESSAGE value="Correção do local do arquivo setup.py para poder gerar o arquivo de distribuição." />
     <MESSAGE value="Inserido testes com pytest e configuração para rodar testes pelo travis." />
     <MESSAGE value="Ajuste" />
@@ -434,6 +450,7 @@
     <MESSAGE value="Correção no yml do travis" />
     <MESSAGE value="Ajustando pyup.yml" />
     <MESSAGE value="Correção de teste quebrado." />
-    <option name="LAST_COMMIT_MESSAGE" value="Correção de teste quebrado." />
+    <MESSAGE value="Atualização de dependencias" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização de dependencias" />
   </component>
 </project>
