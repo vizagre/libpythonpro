@@ -36,7 +36,6 @@ def find_package_data(
     in a distutils ``setup.py`` file.
 
     The dictionary looks like::
-
         {"package": [files]}
 
     Where ``files`` is a list of all the files in that package that
