@@ -8,7 +8,7 @@ Link do curso [Python Pro](https://www.python.pro.br/)
 [![Python 3](https://pyup.io/repos/github/vizagre/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/vizagre/libpythonpro/)
 [![codecov](https://codecov.io/gh/vizagre/libpythonpro/branch/main/graph/badge.svg?token=2RK86E6R1R)](https://codecov.io/gh/vizagre/libpythonpro)
 
-Suportada versão 3 de Python.
+Suportada a versão 3 de Python.
 
 Para instalar:
 
