@@ -158,13 +158,6 @@
       <option name="presentableId" value="Default" />
       <updated>1601762644663</updated>
     </task>
-    <task id="LOCAL-00011" summary="Correção do arquivo de dependencias">
-      <created>1605579730763</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1605579730764</updated>
-    </task>
     <task id="LOCAL-00012" summary="Correção do arquivo de dependencias">
       <created>1605580363223</created>
       <option name="number" value="00012" />
@@ -501,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632005129531</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Atualização de dependencias">
+      <created>1632450900221</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1632450900222</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
