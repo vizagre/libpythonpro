@@ -158,13 +158,6 @@
       <option name="presentableId" value="Default" />
       <updated>1601762644663</updated>
     </task>
-    <task id="LOCAL-00022" summary="Alteração das classes para ser possível testar envio de spam com qtd variavel de usuarios">
-      <created>1609272270123</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1609272270123</updated>
-    </task>
     <task id="LOCAL-00023" summary="Criar classe EnviadorMock para entender o conceito de Mock.">
       <created>1609275904037</created>
       <option name="number" value="00023" />
@@ -501,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637411114160</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Atualização de dependencias">
+      <created>1638019039823</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1638019039824</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
