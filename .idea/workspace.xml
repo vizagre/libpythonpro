@@ -158,13 +158,6 @@
       <option name="presentableId" value="Default" />
       <updated>1601762644663</updated>
     </task>
-    <task id="LOCAL-00024" summary="Criar classe EnviadorMock para entender o conceito de Mock.">
-      <created>1609276031209</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1609276031209</updated>
-    </task>
     <task id="LOCAL-00025" summary="Implementar a lib MOCK no projeto">
       <created>1609278308400</created>
       <option name="number" value="00025" />
@@ -501,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638579288697</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Atualização de dependencias">
+      <created>1640736294380</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1640736294381</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
