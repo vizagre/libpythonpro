@@ -158,13 +158,6 @@
       <option name="presentableId" value="Default" />
       <updated>1601762644663</updated>
     </task>
-    <task id="LOCAL-00025" summary="Implementar a lib MOCK no projeto">
-      <created>1609278308400</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1609278308400</updated>
-    </task>
     <task id="LOCAL-00026" summary="Correção flake8 (PEP8)">
       <created>1609278471366</created>
       <option name="number" value="00026" />
@@ -501,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640736294381</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Atualização de dependencias">
+      <created>1641071658072</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1641071658073</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
