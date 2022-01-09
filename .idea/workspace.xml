@@ -158,13 +158,6 @@
       <option name="presentableId" value="Default" />
       <updated>1601762644663</updated>
     </task>
-    <task id="LOCAL-00026" summary="Correção flake8 (PEP8)">
-      <created>1609278471366</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1609278471366</updated>
-    </task>
     <task id="LOCAL-00027" summary="Isolando testes">
       <created>1609288297070</created>
       <option name="number" value="00027" />
@@ -501,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641071658073</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Atualização de dependencias">
+      <created>1641429143141</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1641429143142</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
