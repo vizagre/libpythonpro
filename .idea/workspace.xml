@@ -158,13 +158,6 @@
       <option name="presentableId" value="Default" />
       <updated>1601762644663</updated>
     </task>
-    <task id="LOCAL-00032" summary="Correção de teste quebrado.">
-      <created>1611359491039</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1611359491040</updated>
-    </task>
     <task id="LOCAL-00033" summary="Atualização de dependencias">
       <created>1615852250408</created>
       <option name="number" value="00033" />
@@ -501,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644284982103</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Atualização de dependencias">
+      <created>1645743966373</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1645743966374</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
